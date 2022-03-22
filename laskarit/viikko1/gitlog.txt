@@ -1,0 +1,96 @@
+commit cc3dfad3a2fb982b796efa0ce9f1088294645ecd
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 01:14:10 2022 +0200
+
+    muutos ja poisto
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ tiedostoja/file3             | 1 +
+ 3 files changed, 1 insertion(+)
+
+commit 4143e8e51c15c9e724b6527d01ddcb2c3c0f5985
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 01:09:50 2022 +0200
+
+    lisäys
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit adbd6762abbc31c6377ecc27f7742f3a43886c26
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 01:03:48 2022 +0200
+
+    muutos eka.txt ja kolmas.txt
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit bed89f1361b800632484ad02b0064dcd953255b5
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 01:02:04 2022 +0200
+
+    tiedosto.txt rename eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b03ef67fe182e479c9a7d3c199406e99d4b514f9
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 01:00:10 2022 +0200
+
+    poisto toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit a69561cc72686f3f130e7b042defd394c1342b23
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 00:57:01 2022 +0200
+
+    muutos ja lisäys
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7174ae9bf5937e539338ec5b8e8cd562e86059f7
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 00:55:57 2022 +0200
+
+    muutos
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 6876ba60e092b3b3374ab07b79626d5291275d4d
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 00:53:58 2022 +0200
+
+    lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c8661cba153888be9981244ff3aee6382101cc52
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 00:46:09 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+
+commit 509b5753c6566889362d8357aef4c0c8f7c8e7f8
+Author: Tuomas Hyvönen <tuomas.hyvonen@helsinki.fi>
+Date:   Tue Mar 22 00:43:33 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
